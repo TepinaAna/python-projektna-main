@@ -30,3 +30,8 @@ Namestitev vseh knjižnic:
 
 ```bash
 pip install -r requirements.txt
+
+## Avtorji
+
+- Beti Kočet
+- Ana Tepina
