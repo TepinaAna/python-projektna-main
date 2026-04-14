@@ -14,17 +14,13 @@ Uporabnik lahko:
 
 Projekt uporablja knjižnico `nba_api`, zato ne uporablja neposrednega spletnega scrape-anja.
 
----
-
 ## Zahteve za delovanje
 
-Za zagon programa je potrebno imeti:
-
-- nameščene naslednje knjižnice:
-  - nba_api
-  - pandas
-  - requests
-  - matplotlib
+Za zagon programa je potrebno imeti nameščene naslednje knjižnice:
+- nba_api
+- pandas
+- requests
+- matplotlib
 
 Namestitev vseh knjižnic:
 
